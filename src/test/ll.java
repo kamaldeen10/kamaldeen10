@@ -10,9 +10,7 @@ public class ll {
 		 
 		 System.out.println("Test3");
 		 
-		 System.out.println("Git 1");
-		 
-		 System.out.println("Git 1");
+		
 		 
 		 System.out.println("Base file 1");
 		 
@@ -28,6 +26,8 @@ public class ll {
 		 
 		 System.out.println("I am Master1");
 		 System.out.println("I am Master2");
+		 
+		 System.out.println("I am Demo1");
 		 
 	}
 
