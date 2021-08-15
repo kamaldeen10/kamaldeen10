@@ -10,9 +10,7 @@ public class ll {
 		 
 		 System.out.println("Test3");
 		 
-		 System.out.println("Git 1");
-		 
-		 System.out.println("Git 1");
+		
 		 
 		 System.out.println("Base file 1");
 		 
@@ -30,7 +28,13 @@ public class ll {
 		 System.out.println("I am Master1");
 		 System.out.println("I am Master2");
 		 
+<<<<<<< HEAD
 
+=======
+		 System.out.println("I am Demo1");
+		 System.out.println("I am Demo2");
+		 System.out.println("I am Demo2");
+>>>>>>> d77d8159d7f85816b9522b01265cd4b4801fed80
 	}
 
 }
